@@ -4,7 +4,7 @@ int main()
 {
     int t;
     cin >> t;
-    vector<string> ans;
+    // vector<string> ans;
     for (int i = 0; i < t; ++i)
     {
         string s;
@@ -27,10 +27,10 @@ int main()
             }
         }
         if ((count % 2) != 0)
-            ans.push_back("DA");
+            cout << "DA" << endl;
         else
-            ans.push_back("NET");
+            cout << "NET" << endl;
     }
-    for (int i = 0; i < t; ++i)
-        cout << ans[i] << endl;
+    // for (int i = 0; i < t; ++i)
+    //     cout << ans[i] << endl;
 }
