@@ -1,0 +1,1 @@
+{"name":"Local: 1324A","url":"c:\\Users\\roshan sharma\\Desktop\\codeforcescodes\\1324A.cpp","tests":[{"id":1665883947696,"input":"5\n3\n1 1 3\n4\n1 1 2 1\n2\n11 11\n2\n100 90\n1\n100","output":"YES\nNO\nYES\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\roshan sharma\\Desktop\\codeforcescodes\\1324A.cpp","group":"local","local":true}
