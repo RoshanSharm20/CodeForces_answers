@@ -1,0 +1,1 @@
+{"name":"Local: 1674B","url":"c:\\Users\\roshan sharma\\Desktop\\codeforcescodes\\1674B.cpp","tests":[{"id":1703836079537,"input":"7\nab\nac\naz\nba\nbc\nzx\nzy\n","output":"1\n2\n25\n26\n27\n649\n650\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\roshan sharma\\Desktop\\codeforcescodes\\1674B.cpp","group":"local","local":true}
