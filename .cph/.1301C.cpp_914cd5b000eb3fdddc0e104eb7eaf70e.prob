@@ -1,0 +1,1 @@
+{"name":"Local: 1301C","url":"c:\\Users\\roshan sharma\\Desktop\\codeforcescodes\\1301C.cpp","tests":[{"id":1704346539631,"input":"5\n3 1\n3 2\n3 3\n4 0\n5 2","output":"4\n5\n6\n0\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\roshan sharma\\Desktop\\codeforcescodes\\1301C.cpp","group":"local","local":true}
